@@ -13,6 +13,11 @@ namespace TheTest
             Console.WriteLine("Hello, C# Acadamy");
              Console.WriteLine("Bye, C# Acadamy");
             Console.WriteLine("Hello, C# Acadamy");
+            Console.WriteLine("Bye, C# Acadamy");
+            Console.WriteLine("Hello, C# Acadamy");
+            Console.WriteLine("Bye, C# Acadamy");
+            Console.WriteLine("Hello, C# Acadamy");
+            Console.WriteLine("Bye, C# Acadamy");
         }
     }
 }
