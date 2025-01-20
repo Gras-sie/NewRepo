@@ -11,6 +11,7 @@ namespace TheTest
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, C# Acadamy");
+             Console.WriteLine("Bye, C# Acadamy");
         }
     }
 }
